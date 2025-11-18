@@ -14,7 +14,7 @@ Project Overview & Architecture \
   - Alternative: DebianOS, Nginx, PHP, MariaDB (LEMP stack)
 
 - Frontend - Headless WordPress
-  - thisBuild: Headless WordPress + React/Vue/Next.js (multi platforms depolyment PWAs included Mobile and IoT platforms)
+  - thisBuild: Headless WordPress + React/Vue/Next.js (multi platforms depolyment PWAs)
   - Alternative: Traditional WordPress themes or Gutenberg/Full-Site Editing (Block Themes) 
 
   Current Frontend Content: Placeholder / Not included (available as custom development upon request)
