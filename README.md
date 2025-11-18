@@ -19,12 +19,12 @@ Project Overview & Architecture \
 
   Current Frontend Content: Placeholder / Not included (available as custom development upon request)
   
-- Serverend - Infrastructure & DevOps  \
-  - Server: AWS Lightsail (easily upgradable to EC2)  \
-  - DNS Management: AWS Route 53  \
-  - Load Balancing: Not currently implemented (available on request – supports multi-region & high-availability setups)  \
-  - Containerization: Docker (available on request)  \
-  - Orchestration: Amazon EKS (Kubernetes) (available on request)  \
+- Serverend - Infrastructure & DevOps
+  - Server: AWS Lightsail (easily upgradable to EC2)
+  - DNS Management: AWS Route 53
+  - Load Balancing: Not currently implemented (available on request – supports multi-region & high-availability setups)
+  - Containerization: Docker (available on request)
+  - Orchestration: Amazon EKS (Kubernetes) (available on request)
   - Storage: Amazon S3 buckets (for media, backups, and static assets)
 
 - Team Collaboration & Environments  \
