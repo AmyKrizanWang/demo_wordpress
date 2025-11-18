@@ -1,7 +1,7 @@
 # demo_wordpress
 Project: demo_wordpress \
   Built by: AmyCN1 \
-  Framework: WordPress CMS
+  Framework: WordPress CMS \
   Date: 11/18/2025
 
 Deployment Platforms: \
