@@ -15,32 +15,30 @@ Project Overview & Architecture \
   - Alternative: DebianOS, Nginx, PHP, MariaDB (LEMP stack)
 
 - Frontend - Headless WordPress
-  - thisBuild: Fully Headless (recommended for mobile & high-performance frontend)
-  - Alternative: Traditional WordPress themes (PHP-based)  \
-    Alternative: Gutenberg/Full-Site Editing (Block Themes)
+  - thisBuild: Headless WordPress + React/Vue/Next.js (multi platforms depolyment PWAs included Mobile and IoT platforms)
+  - Alternative: Traditional WordPress themes  \
+    Alternative: Gutenberg/Full-Site Editing (Block Themes) 
 
-  - thisBuild: Headless WordPress + React/Vue/Next.js (multi platforms depolyment PWAs)
-  - Alternative: Frontend Technologies: HTML5, CSS3, JavaScript (TypeScript + React.js)  \
   Current Frontend Content: Placeholder / Not included (available as custom development upon request)
   
 - Serverend - Infrastructure & DevOps  \
-  Server: AWS Lightsail (easily upgradable to EC2)  \
-  DNS Management: AWS Route 53  \
-  Load Balancing: Not currently implemented (available on request – supports multi-region & high-availability setups)  \
-  Containerization: Docker (available on request)  \
-  Orchestration: Amazon EKS (Kubernetes) (available on request)  \
-  External Storage: Amazon S3 buckets (for media, backups, and static assets)
+  - Server: AWS Lightsail (easily upgradable to EC2)  \
+  - DNS Management: AWS Route 53  \
+  - Load Balancing: Not currently implemented (available on request – supports multi-region & high-availability setups)  \
+  - Containerization: Docker (available on request)  \
+  - Orchestration: Amazon EKS (Kubernetes) (available on request)  \
+  - Storage: Amazon S3 buckets (for media, backups, and static assets)
 
 - Team Collaboration & Environments  \
-  Fully separated Development and Production environments  \
-  Git-based workflow support (can be integrated)  \
-  CI/CD pipeline setup available on request
+    Fully separated Development and Production environments  \
+    Git-based workflow support (can be integrated)  \
+    CI/CD pipeline setup available on request
 
 - User Authentication & Access Control  \
-  Role-based access control (RBAC) using native WordPress user roles, custom user capabilities and permissions upon request  \
-  Enterprise-ready authentication options:  \
-  SSO (Single Sign-On) via SAML / OAuth 2.0  \
-  Integration with AWS IAM, Azure AD, or on-premise Active Directory  \
-  Granular group user policies for Internal Staff vs External Customers
+    Role-based access control (RBAC) using native WordPress user roles, custom user capabilities and permissions upon request  \
+    Enterprise-ready authentication options:  \
+    SSO (Single Sign-On) via SAML / OAuth 2.0  \
+    Integration with AWS IAM, Azure AD, or on-premise Active Directory  \
+    Granular group user policies for Internal Staff vs External Customers
 
 AmyCN1's Notes: This architecture is fully scalable, secure, and ready for enterprise or high-traffic use cases.
