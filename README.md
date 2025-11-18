@@ -12,18 +12,18 @@ Project Overview & Architecture \
   Environments: Separate Development (dev) and Production (prod) instances \
   Cloud Provider: AWS Lightsail (dev & prod environments)
 
-- Backend - LAMP Stack  \
+- Backend - LAMP Stack
   - thisBuild: Ubuntu 24.04 LTS, Apache 2, PHP 8.3, MariaDB 15.1 (LAMP stack) \
   - Alternative: DebianOS, Nginx, PHP, MariaDB (LEMP stack)
 
-- Frontend - Headless WordPress  \
+- Frontend - Headless WordPress
   - thisBuild: Fully Headless (recommended for mobile & high-performance frontend)
   - Alternative: Traditional WordPress themes (PHP-based)  \
-    Alternative: Gutenberg/Full-Site Editing (Block Themes)  \
+    Alternative: Gutenberg/Full-Site Editing (Block Themes)
 
   - thisBuild: Headless WordPress + React/Vue/Next.js (multi platforms depolyment PWAs)
   - Alternative: Frontend Technologies: HTML5, CSS3, JavaScript (TypeScript + React.js)  \
-  Current Frontend Content: Placeholder / Not included (available as custom development upon request)  \
+  Current Frontend Content: Placeholder / Not included (available as custom development upon request)
   
 - Serverend - Infrastructure & DevOps  \
   Server: AWS Lightsail (easily upgradable to EC2)  \
