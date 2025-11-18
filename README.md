@@ -7,7 +7,7 @@ Project: demo_wordpress \
 Deployment Platforms: \
 Website, Mobile App, IoT, VoiceAssistants, Kiosks, eCommerce Platforms
 
-Project Overview & Architecture \
+# Project Overview & Architecture \
   A scalable, modern Headless WordPress CMS solution built on the LAMP stack and hosted on AWS Lightsail (with easy upgrade path to EC2/RDS)
   
 - Backend - LAMP Stack
@@ -41,4 +41,4 @@ Project Overview & Architecture \
     Granular user group policies for Internal Staff vs External Customers
 
 AmyCN1's Notes: This architecture is fully scalable, secure, and ready for enterprise or high-traffic use cases. \
-# next build GitHub Action possible with TravisCI for code validation?
+next build GitHub Action possible with TravisCI for code validation?
