@@ -42,5 +42,5 @@ Website, Mobile App, IoT, VoiceAssistants, Kiosks, eCommerce Platforms
 
 AmyCN1's Notes: This architecture is fully scalable, secure, and ready for enterprise or high-traffic use cases. \
 
-- To Do List: \
-  next build GitHub Action possible with TravisCI for code validation?
+# To Do List: \
+  Next build good practices with GitHub Action and Travis CI for code validation
