@@ -21,7 +21,7 @@ Project Overview & Architecture \
   
 - Serverend - Infrastructure & DevOps
   - Server: AWS Lightsail (easily upgradable to EC2)
-  - DNS Management: AWS Route 53
+  - DNS Management: AWS Route53
   - Load Balancing: Not currently implemented (available on request – supports multi-region & high-availability setups)
   - Containerization: Docker (available on request)
   - Orchestration: Amazon EKS (Kubernetes) (available on request)
@@ -37,6 +37,6 @@ Project Overview & Architecture \
     Enterprise-ready authentication options:  \
     SSO (Single Sign-On) via SAML / OAuth 2.0  \
     Integration with AWS IAM, Azure AD, or on-premise Active Directory  \
-    Granular group user policies for Internal Staff vs External Customers
+    Granular user group policies for Internal Staff vs External Customers
 
 AmyCN1's Notes: This architecture is fully scalable, secure, and ready for enterprise or high-traffic use cases.
