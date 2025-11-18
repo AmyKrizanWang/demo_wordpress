@@ -4,7 +4,7 @@ Built by: AmyCN1 \
 Framework: WordPress CMS \
 Deployment Platforms: \
 Traditional Web (standard WordPress) \
-Mobile & Modern Frontends (Headless WordPress architecture) \
+Mobile & Modern Frontends (Headless WordPress architecture) 
   
 Project Overview & Architecture
   A scalable, modern Headless WordPress CMS solution built on the LAMP stack and hosted on AWS Lightsail (with easy upgrade path to EC2/RDS).
