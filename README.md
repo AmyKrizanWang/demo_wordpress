@@ -1,7 +1,8 @@
 # demo_wordpress
 Project: demo_wordpress \
   Built by: AmyCN1 \
-  Framework: WordPress CMS
+  Framework: WordPress CMS \
+  Date: 11/18/2025
 
 Deployment Platforms: \
 Website, Mobile App, IoT, VoiceAssistants, Kiosks, eCommerce Platforms
@@ -39,4 +40,5 @@ Project Overview & Architecture \
     Integration with AWS IAM, Azure AD, or on-premise Active Directory  \
     Granular user group policies for Internal Staff vs External Customers
 
-AmyCN1's Notes: This architecture is fully scalable, secure, and ready for enterprise or high-traffic use cases.
+AmyCN1's Notes: This architecture is fully scalable, secure, and ready for enterprise or high-traffic use cases. \
+# next build GitHub Action possible with TravisCI for code validation?
