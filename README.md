@@ -1,6 +1,6 @@
 # demo_wordpress
-Project: demo_wordpress
-Built by: AmyCN1
+Project: demo_wordpress \
+Built by: AmyCN1 \
 Framework: WordPress CMS
 Deployment Platforms:
 Traditional Web (standard WordPress)
