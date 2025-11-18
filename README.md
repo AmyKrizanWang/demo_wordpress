@@ -2,6 +2,7 @@
 Project: demo_wordpress \
 Built by: AmyCN1 \
 Framework: WordPress CMS \
+
 Deployment Platforms: \
 Traditional Web (standard WordPress) \
 Mobile & Modern Frontends (Headless WordPress architecture)
