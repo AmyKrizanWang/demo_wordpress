@@ -1,1 +1,52 @@
 # demo_wordpress
+Project: demo_wordpress
+Built by: AmyCN1
+Framework: WordPress CMS
+Deployment Platforms:
+Traditional Web (standard WordPress)
+Mobile & Modern Frontends (Headless WordPress architecture)
+  
+Project Overview & Architecture
+  A scalable, modern Headless WordPress CMS solution built on the LAMP stack and hosted on AWS Lightsail (with easy upgrade path to EC2/RDS).
+  Type: Headless WordPress CMS (decoupled frontend & backend)
+  Environments: Separate Development (dev) and Production (prod) instances
+  Cloud Provider: AWS Lightsail (dev & prod environments)
+
+- Backend - LAMP Stack
+  Operating System: Ubuntu 24.04 LTS
+  Web Server: Apache 2
+  Server-Side Language: PHP 8.3
+  Database: MariaDB 15.1 (distributed with MySQL compatibility)
+
+- Frontend - Headless WordPress
+  Architecture Options:
+  Traditional WordPress themes (PHP-based)
+  Gutenberg/Full-Site Editing (Block Themes)
+  Fully Headless (recommended for mobile & high-performance frontends)
+
+  Frontend Technologies: HTML5, CSS3, JavaScript (TypeScript + React.js)
+  Current Frontend Content: Placeholder / Not included (available as custom development upon request)
+  Recommendation: Use Headless WordPress + React/Vue/Next.js for mobile apps or progressive web apps (PWAs)
+
+  Infrastructure & DevOps
+
+  Server: AWS Lightsail (easily upgradable to EC2)
+  DNS Management: AWS Route 53
+  Load Balancing: Not currently implemented (available on request – supports multi-region & high-availability setups)
+  Containerization: Docker (available on request)
+  Orchestration: Amazon EKS (Kubernetes) (available on request)
+  External Storage: Amazon S3 buckets (for media, backups, and static assets) 
+
+- Team Collaboration & Environments
+  Fully separated Development and Production environments
+  Git-based workflow support (can be integrated)
+  CI/CD pipeline setup available on request
+
+- User Authentication & Access Control
+  Role-based access control (RBAC) using native WordPress user roles, custom user capabilities and permissions upon request
+  Enterprise-ready authentication options:
+  SSO (Single Sign-On) via SAML / OAuth 2.0
+  Integration with AWS IAM, Azure AD, or on-premise Active Directory
+  Granular group user policies for Internal Staff vs External Customers
+
+AmyCN1's Notes: This architecture is fully scalable, secure, and ready for enterprise or high-traffic use cases.
