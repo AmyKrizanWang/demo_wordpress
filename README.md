@@ -6,10 +6,10 @@ Deployment Platforms: \
 Traditional Web (standard WordPress) \
 Mobile & Modern Frontends (Headless WordPress architecture) 
   
-Project Overview & Architecture
-  A scalable, modern Headless WordPress CMS solution built on the LAMP stack and hosted on AWS Lightsail (with easy upgrade path to EC2/RDS).
-  Type: Headless WordPress CMS (decoupled frontend & backend)
-  Environments: Separate Development (dev) and Production (prod) instances
+Project Overview & Architecture \
+  A scalable, modern Headless WordPress CMS solution built on the LAMP stack and hosted on AWS Lightsail (with easy upgrade path to EC2/RDS).  \
+  Type: Headless WordPress CMS (decoupled frontend & backend) \
+  Environments: Separate Development (dev) and Production (prod) instances \
   Cloud Provider: AWS Lightsail (dev & prod environments)
 
 - Backend - LAMP Stack
