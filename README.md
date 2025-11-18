@@ -20,13 +20,14 @@ Website, Mobile App, IoT, VoiceAssistants, Kiosks, eCommerce Platforms
 
   Current Frontend Content: Placeholder / Not included (available as custom development upon request)
   
-- Serverend - Infrastructure & DevOps
+- Serverend - Infrastructure & DevSecOps
   - Server: AWS Lightsail (easily upgradable to EC2)
   - DNS Management: AWS Route53
   - Load Balancing: Not currently implemented (available on request – supports multi-region & high-availability setups)
   - Containerization: Docker (available on request)
   - Orchestration: Amazon EKS (Kubernetes) (available on request)
   - Storage: Amazon S3 buckets (for media, backups, and static assets)
+  - Security: Additonal security can be assigned as required
 
 - Team Collaboration & Environments  \
     Fully separated Development and Production environments  \
