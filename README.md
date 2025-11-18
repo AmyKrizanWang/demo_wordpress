@@ -8,7 +8,7 @@ Traditional Web (standard WordPress) \
 Mobile & Modern Frontends (Headless WordPress architecture)
 
 Project Overview & Architecture \
-  A scalable, modern Headless WordPress CMS solution built on the LAMP stack and hosted on AWS Lightsail (with easy upgrade path to EC2/RDS).  \
+  A scalable, modern Headless WordPress CMS solution built on the LAMP stack and hosted on AWS Lightsail (with easy upgrade path to EC2/RDS)
   
 - Backend - LAMP Stack
   - thisBuild: Ubuntu 24.04 LTS, Apache 2, PHP 8.3, MariaDB 15.1 (LAMP stack)
