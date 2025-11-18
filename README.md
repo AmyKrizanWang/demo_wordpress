@@ -40,7 +40,7 @@ Website, Mobile App, IoT, VoiceAssistants, Kiosks, eCommerce Platforms
     Integration with AWS IAM, Azure AD, or on-premise Active Directory  \
     Granular user group policies for Internal Staff vs External Customers
 
-AmyCN1's Notes: This architecture is fully scalable, secure, and ready for enterprise or high-traffic use cases. \
+AmyCN1's Notes: This architecture is fully scalable, secure, and ready for enterprise or high-traffic use cases.
 
-# To Do List: \
+# To Do List:
   Next build good practices with GitHub Action and Travis CI for code validation
