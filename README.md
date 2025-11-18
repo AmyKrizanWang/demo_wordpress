@@ -13,22 +13,19 @@ Project Overview & Architecture \
   Cloud Provider: AWS Lightsail (dev & prod environments)
 
 - Backend - LAMP Stack  \
-  Operating System: Ubuntu 24.04 LTS  \
-  Web Server: Apache 2  \
-  Server-Side Language: PHP 8.3  \
-  Database: MariaDB 15.1 (distributed with MySQL compatibility)
+  - thisBuild: Ubuntu 24.04 LTS, Apache 2, PHP 8.3, MariaDB 15.1 (LAMP stack) \
+  - Alternative: DebianOS, Nginx, PHP, MariaDB (LEMP stack)
 
 - Frontend - Headless WordPress  \
-  Architecture Options:  \
-  Traditional WordPress themes (PHP-based)  \
-  Gutenberg/Full-Site Editing (Block Themes)  \
-  Fully Headless (recommended for mobile & high-performance frontend)
+  - thisBuild: Fully Headless (recommended for mobile & high-performance frontend)
+  - Alternative: Traditional WordPress themes (PHP-based)  \
+    Alternative: Gutenberg/Full-Site Editing (Block Themes)  \
 
-  Frontend Technologies: HTML5, CSS3, JavaScript (TypeScript + React.js)  \
+  - thisBuild: Headless WordPress + React/Vue/Next.js (multi platforms depolyment PWAs)
+  - Alternative: Frontend Technologies: HTML5, CSS3, JavaScript (TypeScript + React.js)  \
   Current Frontend Content: Placeholder / Not included (available as custom development upon request)  \
-  Recommendation: Use Headless WordPress + React/Vue/Next.js for mobile apps or progressive web apps (PWAs)
-
-  Infrastructure & DevOps  \
+  
+- Serverend - Infrastructure & DevOps  \
   Server: AWS Lightsail (easily upgradable to EC2)  \
   DNS Management: AWS Route 53  \
   Load Balancing: Not currently implemented (available on request – supports multi-region & high-availability setups)  \
