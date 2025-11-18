@@ -16,8 +16,7 @@ Project Overview & Architecture \
 
 - Frontend - Headless WordPress
   - thisBuild: Headless WordPress + React/Vue/Next.js (multi platforms depolyment PWAs included Mobile and IoT platforms)
-  - Alternative: Traditional WordPress themes  \
-    Alternative: Gutenberg/Full-Site Editing (Block Themes) 
+  - Alternative: Traditional WordPress themes or Gutenberg/Full-Site Editing (Block Themes) 
 
   Current Frontend Content: Placeholder / Not included (available as custom development upon request)
   
