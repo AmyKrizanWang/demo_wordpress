@@ -39,5 +39,5 @@ Project Overview & Architecture \
     Integration with AWS IAM, Azure AD, or on-premise Active Directory  \
     Granular user group policies for Internal Staff vs External Customers
 
-AmyCN1's Notes: This architecture is fully scalable, secure, and ready for enterprise or high-traffic use cases. 
-#next build GitHub Action possible with TravisCI for code validation?
+AmyCN1's Notes: This architecture is fully scalable, secure, and ready for enterprise or high-traffic use cases. \
+# next build GitHub Action possible with TravisCI for code validation?
